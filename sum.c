@@ -6,4 +6,4 @@ void sum(int a,int b)
 	c=a+b;	
 	printf("\n%d\n",c);
 }
-	
+	// my name is vinayak
